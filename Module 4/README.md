@@ -1,8 +1,8 @@
 # Module 4: Predictive Analysis (Classification)
 
-## Project Overview
+## Overview
 
-This project focuses on using machine learning to predict whether the first stage of the Falcon 9 rocket will land successfully. The goal is to build an accurate classification model that can assist in making informed business decisions and improve operational efficiency.
+This Module focuses on using machine learning to predict whether the first stage of the Falcon 9 rocket will land successfully. The goal is to build an accurate classification model that can assist in making informed business decisions and improve operational efficiency.
 
 ## Objectives
 
