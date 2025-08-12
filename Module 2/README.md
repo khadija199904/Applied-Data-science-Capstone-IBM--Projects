@@ -13,12 +13,6 @@ This module consisted of **two main parts**:
 
 ---
 
-## Summary
-
-- Collected Falcon 9 launch data using RESTful API and web scraping.  
-- Converted raw data into structured Pandas DataFrames.  
-- Visualized data and extracted patterns using Matplotlib.  
-- Engineered useful features and prepared a clean dataset for future modeling.
 
 ## Objectives
 
