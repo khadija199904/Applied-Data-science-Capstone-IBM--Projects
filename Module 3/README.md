@@ -1,5 +1,5 @@
 # Module 3: Interactive Visual Analytics and Dashboards
-In this module, we focus on interactive visual analytics of SpaceX launch data and the creation of dynamic dashboards to explore factors affecting launch success.
+This module focuses on **interactive visual analytics** of SpaceX launch data and the creation of **dynamic dashboards** to explore factors affecting launch success.  
 
 ## Objectives
 
