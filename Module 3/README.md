@@ -1,16 +1,17 @@
-# Module 3: Interactive Visual Analytics with Folium
-In this module, we perform interactive visual analytics using the Folium library. Launch success rates may depend on various factors such as:
-
-- Payload mass  
-- Orbit type  
-- Location of launch sites  
-
-By analyzing launch site locations and their proximity, we aim to identify factors that influence launch success and potentially find optimal launch site locations.
+# Module 3: Interactive Visual Analytics and Dashboards
+In this module, we focus on interactive visual analytics of SpaceX launch data and the creation of dynamic dashboards to explore factors affecting launch success.
 
 ## Objectives
 
 - Perform interactive visual analytics of SpaceX launch data using Folium.  
 - Explore spatial relationships between launch sites and launch success or failure.  
 - Calculate distances between launch sites and nearby landmarks or facilities.
+- **Build a dashboard with Plotly Dash** to provide interactive insights on:  
+  - Success vs. failure rates per launch site  
+  - Payload mass distributions  
+  - Orbit type statistics  
+  - Geographic visualizations of launch activity  
+    
 
-Previous exploratory data analysis used matplotlib and seaborn to visualize correlations between launch sites and success rates. This module extends that work by adding interactive maps and spatial analysis.
+## Outcome
+Users can interactively explore SpaceX launch data, identify factors influencing launch success, and make data-driven insights using dashboards.  
